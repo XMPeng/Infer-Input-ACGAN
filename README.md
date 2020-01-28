@@ -1,0 +1,2 @@
+# Infer-Input-ACGAN
+PyTorch implementation of the methods described in ICIP 2020 submission of "INFER THE INPUT TO THE GENERATOR OF AUXILIARY CLASSIFIER GENERATIVE ADVERSARIAL NETWORKS"
