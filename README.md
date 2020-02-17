@@ -15,3 +15,5 @@ Take the following steps to test the code for the Intel Image Classification Dat
 6. Run main_infer_intel3.py to train an ACGAN with an encoder.
 
 7. Run invert_infer_intel.py for Infer-ACGAN-encoder.
+
+Contact xp815@uowmail.edu.au for comments and concerns.
